@@ -5,10 +5,10 @@ v.vfgte.com^
 adsquash.info^
 go.godkc.com^
 trck.wargaming.net^
-www.nq.trikeunpured.com^
+||nq.trikeunpured.com^
 download-adblockgenius.com^
 furthermoreofthem.com/579567^
-furthermoreofthem.com^
+||furthermoreofthem.com^
 https://furthermoreofthem.com/579567^
 https://furthermoreofthem.com^
 ||acacdn.com^
