@@ -1,9 +1,9 @@
-ad.play-lust.com^
+||ad.play-lust.com^
 nq.trikeunpured.com^
 bobgames-prolister.com^
-v.vfgte.com^
-adsquash.info^
-go.godkc.com^
+||v.vfgte.com^
+||adsquash.info^
+||go.godkc.com^
 trck.wargaming.net^
 ||nq.trikeunpured.com^
 download-adblockgenius.com^
