@@ -13,3 +13,5 @@ https://furthermoreofthem.com/579567^
 https://furthermoreofthem.com^
 ||acacdn.com^
 ||*.acacdn.com^
+||cloudvid.icu^
+||masterlist.tv^
