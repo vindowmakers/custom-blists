@@ -11,3 +11,4 @@
 ||*.acacdn.com^
 ||cloudvid.icu^
 ||masterlist.tv^
+||adclickad.com^
